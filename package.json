@@ -1,0 +1,14 @@
+{
+  "name": "HarmonyUI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codercredit/HarmonyUI.git",
+  "author": "Md. Mehadi Hassan <shilonmahadi7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "sass --watch assets/scss/main.scss:assets/css/styles.css"
+  },
+  "devDependencies": {
+    "sass": "^1.83.1"
+  }
+}
